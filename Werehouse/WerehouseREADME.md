@@ -2,7 +2,7 @@
 ## By Chance Hoard | 09.22.2025
 ### CC 0 1.0 (PUBLIC DOMAIN)
 ---
-## *Important Note: The blender file associated with the final Werehouse model is labled "Werehouse002" and not "Werehouse"*
+## *Important Note: The blender file associated with the final Werehouse model is labled "Werehouse002" and not "Werehouse". Also, when making the project I utalized 4k.png texture images for most of the textures and unfortunately ran into issues uploading the files to github. So, I had to use gitbatch and along with the texture changes came the deletion of the `.psd` file mentioned below. All that to say as of currently the `.blend` file will not display correct textures for most of the elements in the scene, and you will have to manually set them in the shader blueprint window.*
 ---
 # File Directory
 ### **BLENDER_ASSET_OBJECTS** -> The `.blend`, `.obj`, and `.mtl` files created from blender. You can open and edit the assets by opening the `.blend` file, and import the objects into a 3D enviornment with the `.obj` and `.mtl` files.
